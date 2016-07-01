@@ -22,7 +22,7 @@
 				<outline text="&lt;style&gt;">
 					<outline text="body {">
 						<outline text="background-color: whitesmoke;"></outline>
-						<outline text="}"></outline>
+						<outline text="}"></outline> 
 						</outline>
 					<outline text=".tableStats {">
 						<outline text="font-size: 18px;"></outline>
